@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/*Reset 시작*/
+* {
+    color: #000;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+a:link            {color: #333;}
+a:visited        {color: #333;}
+a:hover         {color: #333;}
+a:active         {color: #333;}
+
+ul {
+    list-style: none;
+}
+/*Reset 끝*/
+
+/*제목 시작*/
+div#wrap>h2#companyLogo {
+    color: #03c75a;
+}
+
+
+/*제목 끝*/
